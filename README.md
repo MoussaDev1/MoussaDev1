@@ -1,7 +1,6 @@
 <h1 align="center">Salut, Je suis Moussa Diakite</h1>
 <h3 align="center">Un développeur passionné qui vient de France à Paris</h3>
 
-- Vous pouvez aller visité mon porfolio ici : [https://moussa.alwaysdata.net/](https://moussa.alwaysdata.net/)
 
 <h3 align="left">Vous pouvez me contactez sur : </h3>
 <p align="left">
